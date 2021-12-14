@@ -6,4 +6,4 @@
 
 ## My experience
 - I dont have a lot of experience with programming, i want to get an internship and gain it.
-- 
+- You can find my experience on my repositories.
